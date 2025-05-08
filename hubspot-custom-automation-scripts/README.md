@@ -2,7 +2,7 @@
 
 A collection of custom JavaScript functions used within HubSpot workflows to automate business logic, improve data hygiene, and streamline CRM operations. These functions are used in conjunction with HubSpot's serverless workflow actions or webhook integrations.
 
-## ✨ Features
+## Features
 
 - Associate Deals with Tickets based on loan ID
 - Deduplicate Contacts by Phone Number (1-to-1 and many-to-one logic)
