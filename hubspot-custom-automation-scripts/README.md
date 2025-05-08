@@ -4,15 +4,15 @@ A collection of custom JavaScript functions used within HubSpot workflows to aut
 
 ## ✨ Features
 
-- ✅ Associate Deals with Tickets based on loan ID
-- 📞 Deduplicate Contacts by Phone Number (1-to-1 and many-to-one logic)
-- ☎️ Format US phone numbers to +1 (XXX) XXX-XXXX format
-- 🔁 Auto-update Deal Owner to match Contact Owner
-- 📊 Calculate derived values (e.g., income-based math) for decision logic
-- 📌 Auto-tag after-hours call outcomes
-- 📲 Automated outbound call handling with screen pop and Dialpad API
+- Associate Deals with Tickets based on loan ID
+- Deduplicate Contacts by Phone Number (1-to-1 and many-to-one logic)
+- Format US phone numbers to +1 (XXX) XXX-XXXX format
+- Auto-update Deal Owner to match Contact Owner
+- Calculate derived values (e.g., income-based math) for decision logic
+- Auto-tag after-hours call outcomes
+- Automated outbound call handling with screen pop and Dialpad API
 
-## 🔍 Scripts
+## Scripts
 
 | Script File                          | Purpose                                                   |
 |-------------------------------------|-----------------------------------------------------------|
@@ -24,22 +24,8 @@ A collection of custom JavaScript functions used within HubSpot workflows to aut
 | `tag-call-outcome.js`               | Tags calls after working hours with specific disposition  |
 | `math-loan-calculation.js`          | Computes advanced values from deal inputs                 |
 
-## 🛠️ Tech Stack
-
-- JavaScript (Node.js runtime)
-- HubSpot Private App API (`@hubspot/api-client`)
-- Serverless Functions (HubSpot Workflows)
-- Zapier (for outbound dialing, lead routing)
-- Dialpad API
-
-## 🖼️ Example Workflow
-
-Add your flow image to `docs/flow-overview.png`.
-
----
-
-## 👤 Author
+## Author
 
 **Imran Ali**  
-CRM Automation Specialist | HubSpot Developer | Workflow Engineer  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:you@example.com)
+HubSpot Developer
+[LinkedIn](https://linkedin.com/in/ia75040) • [Email](mailto:ia75040@gmail.com)
